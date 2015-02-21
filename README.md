@@ -11,6 +11,7 @@ Contains 'run_file.R' with code to perform required tasks for course project:
         5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 run_file.R performs as follows:
+
         ## Step 1: Compile dataset for 'Test' group and 'Train' group, and combine both datasets into one big dataset called           'HAR_Test_Train'
         ## Create 'Test' group dataset
 
